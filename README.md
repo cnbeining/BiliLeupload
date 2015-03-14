@@ -52,6 +52,6 @@ Misc
 * 禁止转载到**墙内**各种电子公告服务（包括但不限于百毒贴吧、AC 丧尸岛、各种论坛、微博等）。发现腿打折。之前不是没有过先例。
 
 #### `vu` 的用法
-* <http://yuntv.letv.com/bcloud.swf?uu=iamuseless&vu=cd09b2f515>
+* <http://yuntv.letv.com/bcloud.swf?uu=ab417c1571&vu=cd09b2f515>
 * `[localup]cd09b2f515[/localup]`
 * 乐视云视频 - cd09b2f515
